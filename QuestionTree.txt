@@ -1,0 +1,74 @@
+
+,Is it a dorm?
+Y,In the Towers?
+YY,Old Tower?
+YYY,7 floors tall?
+YYYY,Is it Carey?
+YYYYY,Carey Hall
+YYYYN,Troutman Hall
+YYYN,Is it Wheeler?
+YYYNY,Wheeler Hall
+YYYNN,Cobb Hall
+YYN,On W Campus Dr?
+YYNY,Campbell Hall
+YYNN,Is it Kesseler?
+YYNNY,Kesseler Hall
+YYNNN,Kulhavi Hall
+YN,South Side?
+YNY,East Complex?
+YNYY,FEW Side?
+YNYYY,Four Floors?
+YNYYYY,Is it Woldt?
+YNYYYYY,Woldt Hall
+YNYYYYN,Emmons Hall
+YNYYYN,Fabiano Hall
+YNYYN,Four Floors?
+YNYYNY,Is it Herrig?
+YNYYNYY,Herrig Hall
+YNYYNYN,Saxe Hall
+YNYYNN,Celani Hall
+YNYN,Face Broomfield?
+YNYNY,On Washington?
+YNYNYY,Beddow Hall
+YNYNYN,Thorpe Hall
+YNYNN,On Washington?
+YNYNNY,Merrill Hall
+YNYNNN,Sweeney Hall
+YNN,On Washington?
+YNNY,North Quad?
+YNNYY,On Bellows?
+YNNYYY,Larzelere Hall
+YNNYYN,Robinson Hall
+YNNYN,Barnes Hall
+YNNN,On Bellows?
+YNNNY,Trout Hall
+YNNNN,Calkins Hall
+N,West of Mission?
+NY,S of Broomfield?
+NYY,CMU Owned?
+NYYY,Kewadin
+NYYN,B-Ball Court?
+NYYNY,Is it Lexington?
+NYYNYY,Lexington Ridge
+NYYNYN,Timbercreek
+NYYNN,Deerfield
+NYN,CMU Owned?
+NYNY,Northwest?
+NYNYY,Northwest
+NYNYN,Grad. Housing
+NYNN,Has a pool?
+NYNNY,Copper Beach
+NYNNN,On Crawford?
+NYNNNY,Chip Village
+NYNNNN,Campus Habitat
+NN,Has a pool?
+NNY,Gated Community?
+NNYY,Is it the Grove?
+NNYYY,Grove
+NNYYN,Park Place
+NNYN,Is it U-Meadows?
+NNYNY,Univ. Meadows
+NNYNN,Blue Grass
+NNN,B-Ball Court?
+NNNY,Tall Grass
+NNNN,Jamestown
