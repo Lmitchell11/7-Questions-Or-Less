@@ -1,5 +1,5 @@
 # 7-Questions-Or-Less
-# Made by Liam Mitchell
+# By Liam Mitchell
 CMU IEEE Club recruitment game, similar to 20 Questions. Raspberry Pi, Python, and Adafruit 16x2 LCD
 
 Comments were added in the .py file to help explain the program.
@@ -20,4 +20,4 @@ In the future it will be used at CMU events such as "Mainstage", in attempt to g
 
 I would also like to give a big thanks to Mark Schlax, a CSE and good friend of mine from MTU on helping with the timing delays.
 
-Our GitHub handles our: Lmitchell11, mcschlax
+Our GitHub handles: Lmitchell11, mcschlax
